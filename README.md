@@ -1,1 +1,1 @@
-# pattern_finder
+#pattern_finder is sourced through a third party. The code is used to determine if a string of characters qualifies as a phone number. The program only uses logic.
